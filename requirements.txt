@@ -3,5 +3,5 @@ seaborn
 pandas
 numpy
 matplotlib
-sklearn
+scikit-learn
 pickle5
